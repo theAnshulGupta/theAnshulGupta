@@ -32,5 +32,3 @@ And yes, I am musically oriented. I play percussion and piano both inside and ou
 <br>
 LinkedIn: https://linkedin.com/in/theAnshulGupta
 <br>
-Stack Overflow: https://stackoverflow.com/users/12353444/theAnshulGupta
-<br>
