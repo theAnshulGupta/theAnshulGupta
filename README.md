@@ -15,16 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Anshul Gupta][website] 👋
+### Hey there, I'm [Anshul Gupta][website] 👋
 
 ---
 
-## I'm a high school student in the Bay Area!!
+## I'm a high school student in the Bay Area!
 
-- 🔭 I love to apply my coding for a cause
-- 🌱 I love full stack development
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love to play music
+<details open>
+  <summary>🔭 I like to apply CS for a cause:</summary>
+
+<br />
+
+📚 I lead a math tutoring organization with over 100 student signups and 30+ tutors primarily targeted for elementary, middle, and high school students called [To The Limit Maths][tothelimitmaths]. I'm both the Co-President and Tech Director there.
+<br />
+
+🎁 I also co-founded and am the CTO of [AUesome][auesome] LLC, a company combing virtual and physical therapy for children with autism in a form of custom therapy kits.
+<br />
+
+💻 I help create [ThetaHacks][thetehacks], a 24-hour virtual hackathon and am the Logistics Coordinator.
+
+</details>
 
 ---
 
@@ -55,7 +65,7 @@ Here are some ideas to get you started:
 
 ---
 
-<details open>
+<details>
   <summary>:zap: Some of my Organizations</summary>
   
 1. [To The Limit Maths](https://github.com/tothelimitmaths)
@@ -72,6 +82,9 @@ Here are some ideas to get you started:
 </details>
 
 [website]: https://anshulgupta.com
+[tothelimitmaths]: https://tothelimitmaths.org
+[thetehacks]: https://thetahacks.tech
+[auesome]: https://auesome.co
 [twitter]: https://twitter.com/theAnshulGupta
 [instagram]: https://instagram.com/anshulgoopta
 [linkedin]: https://linkedin.com/in/theAnshulGupta
