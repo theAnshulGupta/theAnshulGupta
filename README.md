@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 [tothelimitmaths]: https://tothelimitmaths.org
 [thetehacks]: https://thetahacks.tech
 [auesome]: https://auesome.co
-[twitter]: https://twitter.com/theAnshulGupta
+[twitter]: https://twitter.com/theGuptaAnshul
 [instagram]: https://instagram.com/anshulgoopta
 [linkedin]: https://linkedin.com/in/theAnshulGupta
 
