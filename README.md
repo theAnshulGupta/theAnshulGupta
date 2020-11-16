@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/html.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/css.png" />
+<img align="left" width="19px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/css.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/javascript.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/mongo.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/express.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/express.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/react.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/nodejs.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/jquery.png" />
@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/swift.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/git.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/github.png" />
+<img align="left" width="30px" src="https://raw.githubusercontent.com/theAnshulGupta/theAnshulGupta/master/logos/terminal.png" />
+
 
 <br />
 
