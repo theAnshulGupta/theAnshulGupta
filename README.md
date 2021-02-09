@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 
 <br />
 
-📚 I lead a math tutoring organization with over 100 student signups and 30+ tutors primarily targeted for elementary, middle, and high school students called [To The Limit Maths][tothelimitmaths]. I'm both the Co-President and Tech Director there.
+🎁 I also co-founded AUesome][auesome] LLC, a company combing virtual and physical therapy for children with autism. 
 <br />
 
-🎁 I also co-founded and am the CTO of [AUesome][auesome] LLC, a company combing virtual and physical therapy for children with autism in a form of custom therapy kits.
+💻 I created [ThetaHacks][thetehacks], a hackathon with over 500 signups and 80 projects.   
 <br />
 
-💻 I help create [ThetaHacks][thetehacks], a 24-hour virtual hackathon and am the Logistics Coordinator.
+📚 I lead a math tutoring organization with over 100 student called [To The Limit Maths][tothelimitmaths]. 
 <br />
+
 
 ... and more! Be sure to connect with me on [LinkedIn][linkedin].
 
