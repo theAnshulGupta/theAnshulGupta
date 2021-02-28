@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 <br />
 
-🎁 I also co-founded AUesome][auesome] LLC, a company combing virtual and physical therapy for children with autism. 
+I co-founded and am the tech director @ [AUesome][auesome] LLC.
 <br />
 
-💻 I created [ThetaHacks][thetehacks], a hackathon with over 500 signups and 80 projects.   
+I founded and am the Lead/Logistics Director @ [ThetaHacks][thetehacks].
 <br />
 
-📚 I lead a math tutoring organization with over 100 student called [To The Limit Maths][tothelimitmaths]. 
+I'm a co-founder and Executive Tech Director @ [To The Limit Maths][tothelimitmaths]!
 <br />
 
 
@@ -76,7 +76,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Some of my Organizations</summary>
-  
+  <br />
+
 1. [To The Limit Maths](https://github.com/tothelimitmaths)
 2. [AUesome](https://github.com/AUesome)
 3. [ThetaHacks](https://github.com/ThetaHacks)
@@ -85,6 +86,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <br />
 
   <img align="left" alt="theAnshulGupta's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=theAnshulGupta&show_icons=true&hide_border=true&theme=dracula" />
 
