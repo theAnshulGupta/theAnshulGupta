@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## I'm a high school student in the Bay Area!
 
-<details open>
+<details>
   <summary>🔭 I apply CS for a cause:</summary>
 
 <br />
